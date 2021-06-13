@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muthee361
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in being a full-stack javascript developer
 - 🌱 I’m currently learning Computer Science as an undergraduate course
 - 💞️ I’m looking to collaborate on web related projects
 - 📫 

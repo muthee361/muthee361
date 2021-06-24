@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muthee361
+- 👋 Hi, I’m kyle
 - 👀 I’m interested in being a full-stack javascript developer
 - 🌱 I’m currently learning Computer Science as an undergraduate course
 - 💞️ I’m looking to collaborate on web related projects
